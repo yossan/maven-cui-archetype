@@ -1,6 +1,6 @@
 # Introduction
 
-This is a template of a minimum maven archetype to create CUI application.
+This is a template of a minimum maven archetype to create a CUI application.
 
 # Features
 
